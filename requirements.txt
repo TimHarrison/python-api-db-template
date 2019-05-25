@@ -1,0 +1,9 @@
+Flask
+passlib
+sqlalchemy
+mysqlclient
+flask-sqlalchemy
+flask-jwt-extended
+flask-migrate
+flask_script
+click
